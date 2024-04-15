@@ -8,7 +8,6 @@ const ProductList = () => {
 
   return (
     <>
-      <h3 className="text-center my-4">Product List</h3>
       <div className="container d-flex flex-wrap justify-content-around ">
         {
           isLoading 
